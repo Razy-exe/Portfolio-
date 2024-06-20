@@ -55,7 +55,7 @@ const page = () => {
                     data-from="https://github.com/microsoft/fluentui-emoji/tree/main/assets/Fire"
                     height="128"
                     loading="lazy"
-                    src="/pfp.gif"
+                    src="/Pfp.gif"
                     title="A risky fire..."
                     width="128"
                   />
