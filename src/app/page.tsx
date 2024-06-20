@@ -13,7 +13,7 @@ const page = () => {
           content="Just a random person on the internet"
           name="description"
         />
-        <meta content="RiskyMH" name="keywords" />
+        <meta content="Razy.exe" name="keywords" />
         <meta
           content="#2a2a2a"
           media="(prefers-color-scheme: dark)"
