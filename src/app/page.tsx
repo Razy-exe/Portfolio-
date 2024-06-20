@@ -20,7 +20,7 @@ const page = () => {
           name="theme-color"
         />
         <meta content="#FF6723" name="theme-color" />
-        <meta content="RiskyMH" property="og:title" />
+        <meta content="Razy.exe" property="og:title" />
         <meta
           content="Just a random person on the internet"
           property="og:description"
