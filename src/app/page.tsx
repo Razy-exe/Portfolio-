@@ -26,7 +26,7 @@ const page = () => {
           property="og:description"
         />
         <meta content="website" property="og:type" />
-        <meta content="https://riskymh.dev/" property="og:url" />
+        <meta content="/" property="og:url" />
         <script
           dangerouslySetInnerHTML={{
             __html:
